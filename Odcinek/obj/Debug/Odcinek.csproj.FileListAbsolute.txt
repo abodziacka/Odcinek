@@ -1,0 +1,27 @@
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\bin\Debug\Odcinek.exe.config
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\bin\Debug\Odcinek.exe
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\bin\Debug\Odcinek.pdb
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\obj\Debug\Odcinek.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\obj\Debug\Odcinek.Form1.resources
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\obj\Debug\Odcinek.Properties.Resources.resources
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\obj\Debug\Odcinek.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\obj\Debug\Odcinek.exe
+C:\Users\aleks\Desktop\grafika\Odcinek\Odcinek\obj\Debug\Odcinek.pdb
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\bin\Debug\Odcinek.exe.config
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\bin\Debug\Odcinek.exe
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\bin\Debug\Odcinek.pdb
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\obj\Debug\Odcinek.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\obj\Debug\Odcinek.Form1.resources
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\obj\Debug\Odcinek.Properties.Resources.resources
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\obj\Debug\Odcinek.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\obj\Debug\Odcinek.exe
+C:\Users\aleks\Desktop\Odcinek2\Odcinek\obj\Debug\Odcinek.pdb
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\bin\Debug\Odcinek.exe.config
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\bin\Debug\Odcinek.exe
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\bin\Debug\Odcinek.pdb
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\obj\Debug\Odcinek.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\obj\Debug\Odcinek.Form1.resources
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\obj\Debug\Odcinek.Properties.Resources.resources
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\obj\Debug\Odcinek.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\obj\Debug\Odcinek.exe
+C:\Users\aleks\Desktop\Studia\semesstr 6\Grafika Komputerowa\Projekt1\Odcinek\obj\Debug\Odcinek.pdb
