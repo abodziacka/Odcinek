@@ -6,4 +6,3 @@ Aplikacja okienkowa stworzona w celu zaliczenia  przedmiotu "Grafika komputerowa
 
 # Technologie
 * C#
-* Angular 8 
